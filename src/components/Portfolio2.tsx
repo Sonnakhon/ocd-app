@@ -185,7 +185,7 @@ export default function Portfolio2() {
                 <div className="card-body">
                   <h4 className="card-title">
                     <a
-                      href="Technostructural Intervention/Technostructural Intervention-55-77.pdf"
+                      href="assets/Technostructural Intervention/Technostructural Intervention-55-77.pdf"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
